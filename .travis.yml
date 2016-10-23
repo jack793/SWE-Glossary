@@ -17,6 +17,3 @@ addons:
     - tex4ht
     - texlive-fonts-recommended
     - texlive-lang-italian
-
-deploy:
-  skip_cleanup: true
